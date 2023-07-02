@@ -63,7 +63,7 @@ Demo : https://drive.google.com/file/d/1ZCDXNvIYvkWAIVriLrwpQwZz5S1cLTEM/view?us
 
 ## Ảnh demo
 ![Đăng nhập tài khoản](SignIn.png)
-![Trang quản trị khóa học của GV](Cources_for_fact.png)
+![Trang quản trị khóa học của GV](Courses_for_fact.png)
 ![Các hành động trong khóa học](Act.png)
 ![Cổng giao tiếp giữa GV và HS](Discussion.png)
 ![Điểm danh học viên](Attendance.png)
