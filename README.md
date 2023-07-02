@@ -60,3 +60,13 @@ Now the project should be running on http://127.0.0.1:8000/
 Đăng nhập với tư cách quản trị viên và thêm một số khóa học, giáo viên và học sinh.
 
 Demo : https://drive.google.com/file/d/1ZCDXNvIYvkWAIVriLrwpQwZz5S1cLTEM/view?usp=sharing
+
+## Ảnh demo
+![Đăng nhập tài khoản](SignIn.png)
+![Trang quản trị khóa học của GV](Cources_for_fact.png)
+![Các hành động trong khóa học](Act.png)
+![Cổng giao tiếp giữa GV và HS](Discussion.png)
+![Điểm danh học viên](Attendance.png)
+![Giao bài tập cho HV](Quizzes.png)
+![Hiển thị các khóa học và số lượng học viên từng khóa](Departments.png)
+![Xem thông tin của GV](information.png)
